@@ -2,7 +2,4 @@
 
 require_relative '../lib/move.rb'
 
-def greeting
-  puts "Welcome to Tic Tac Toe!"
-  display_board
-end
+puts "Welcome to Tic Tac Toe!"
