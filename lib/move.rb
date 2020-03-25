@@ -14,6 +14,13 @@ def move(board, index, player = "X")
   board[index] = player
 end
 
+def board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
 
 
 
